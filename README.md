@@ -16,5 +16,5 @@ Inconvenientes:
 * El SSID y password de la red wifi que será añadida no admiten espacios en blanco
 * Al añadir una nueva red wifi, se conectará a ella de forma inmediata
 * No contempla el caso de ingresar una red con SSID o password con errores (es posible que el bot crashee de ocurrir ésto)
-* No se contemplan errores tipográficos en los comandos enviador por el cliente. Concretamente en los argumentos.
+* No se contemplan errores tipográficos en los comandos enviados por el cliente. Concretamente en los argumentos.
 * No se contempla la recepción de comandos desconocidos
