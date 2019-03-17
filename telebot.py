@@ -12,8 +12,8 @@ from wireless import Wireless
 
 ################################################################
 
-TOKEN = 'INSERT_THE_BOT_TOKEN'
-ID = INSERT_USER_ID
+TOKEN = '*inserte_el_token_del_bot*'
+ID = *inserte_el_id_de_usuario*
 
 ################################################################
 
