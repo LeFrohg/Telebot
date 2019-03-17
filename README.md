@@ -9,6 +9,7 @@ El bot permite:
 * Establecer el tiempo medido en segundos que tardará el servomotor en abrir y cerrar el ángulo de apertura
 * Consultar los valores almacenados (con permanencia en caso de corte energético)
 * Debido al OS al que está enfocado, permite agregar nuevas redes wifi
+* Identificar el cliente con el que está interactuando, permitiendo que sólo el cliente definido haga uso y manipule el servomotor
 
 Inconvenientes:
 * La ecuación usada para obtener los grados fue establecida calibrando el servomotor en concreto. Una alta probabilidad de que falle en       caso de usar un servomotor distinto
